@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "name": "server-787",
+  "description": "A simple MVC framework",
+  "repository": "https://github.com/developer787/server-787",
+  "logo": "URL",
   "keywords": ["node", "express", "static"]
 }
